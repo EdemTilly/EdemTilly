@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdemTilly
-- 👀 I’m interested in trying new foods and recipes.
-- 🌱 I’m currently learning data analysis using python
-- 💞️ I’m looking to collaborate on clearing and analyzing HUGE data. and also looking forwad to mentors.
+- 👀 I’m interested in indepth investigations ,social media, network traffic..
+- 🌱 I’m currently learning ebpf
+- 💞️ I’m looking to collaborate on Creating security architures for all types of industries.ie fintech, Space cybersecurity etc and also looking forwad to mentors.
 - 📫 How to reach me odzormatida@gmail.com 
 
 <!---
